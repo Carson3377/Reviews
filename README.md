@@ -1,7 +1,7 @@
 JavaScript Project--
 # Reviews
 
-In this JavaScript project, we're going to create a review carousel with descriptions and a button that generates random reviews when clicked. --This is a good feature to have on an ecommerce site to display customer reviews or a personal portfolio to display client reviews.--
+In this JavaScript project, we're going to create a review carousel with descriptions and a button that generates random reviews when clicked. --This is a good feature to have on an ecommerce site to display customer reviews or a personal portfolio to display client reviews.-- [Reviews](https://carson3377.github.io/Reviews/reviews.html)
 
 Credit: FreeCodeCamp.org
 
