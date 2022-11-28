@@ -43,7 +43,7 @@ let currentTime = -1;
 
 // Load initial item
 window.addEventListener("DOMContentLoaded", function() {
-    
+    showPerson();
 })
 // Show person based on item
 function showPerson() {
